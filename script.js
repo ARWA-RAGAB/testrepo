@@ -1,2 +1,2 @@
-let a = 3 + 6;
-let p="localhost/4200"
+let a = "arwa";
+var p = "arwa"
